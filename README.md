@@ -230,9 +230,6 @@ Add your Power BI dashboard screenshot here:
 
 Zomato-Data-Analytics/
 │
-├── Dataset/
-│   └── zomato_dataset.csv
-│
 ├── Excel/
 │   └── Zomato_Analysis.xlsx
 │
